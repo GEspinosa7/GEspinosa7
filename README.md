@@ -3,7 +3,7 @@ My name is Gabriel Espinosa
 
 > Here some things about me that you might want to know:
 
-1. 🌱 I’m currently learning **Flutter**
+1. 🌱 I’m currently learning **Flutter** and **Ruby on Rails**
 2. 👯 I’m looking to collaborate on any company that wants to hire me for mobile app development
 4. Campos dos Goytacazes - RJ - Brazil
 3. 📫 How to reach me:
