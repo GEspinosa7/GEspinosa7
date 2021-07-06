@@ -7,6 +7,6 @@ My name is Gabriel Espinosa
 2. Campos dos Goytacazes - RJ - Brazil
 3. 📫 How to reach me:
    - gabrielespinosajob@gmail.com
-   - [Linkedin](https://www.linkedin.com/in/gabriel-espinosa-727542158/)
+   - [Linkedin](https://www.linkedin.com/in/gabriel-espinosa-dev/)
    - [Facebook](https://www.facebook.com/gabrielespinosa22/)
 
